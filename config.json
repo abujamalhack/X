@@ -1,0 +1,10 @@
+{
+  "target_username": "YOUR_TEST_ACCOUNT",
+  "reporting_intensity": 5,
+  "concurrency_limit": 2,
+  "captcha_key": "YOUR_2CAPTCHA_API_KEY",
+  "proxies": [
+    "username:password@ip:port"
+  ],
+  "report_type": "harassment"
+}
